@@ -1,6 +1,6 @@
 # Automatiseren met Ansible: De Sleutel tot Efficiëntie in IT Beheer
 
-![ansible logo](plaatjes/ansible_logo.png)  
+![ansible logo](plaatjes/Ansible_Logo.png)  
 *Afbeelding 1: Ansible logo*
 
 Naam: Danny Loen  
