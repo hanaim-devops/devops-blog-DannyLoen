@@ -81,7 +81,11 @@ Kortom, Ansible is zeer bruikbaar voor omgevingen die de focus leggen op Linux/U
 ## 6. Bronnen
 
 Dhruv. (z.d.). GitHub - dhruv291101/Ansible-Pros-and-Cons. GitHub. <https://github.com/dhruv291101/Ansible-Pros-and-Cons>
+
 Fireship. (2023, 28 maart). Ansible in 100 seconds [Video]. YouTube. <https://www.youtube.com/watch?v=xRMPKQweySE>
+
 Homepage | Ansible Collaborative. (z.d.). <https://www.ansible.com/>
+
 NetworkChuck. (2020, 7 mei). you need to learn Ansible RIGHT NOW!! (Linux Automation) [Video]. YouTube. <https://www.youtube.com/watch?v=5hycyr-8EKs>
+
 The Pros and Cons of Ansible | UpGuard. (z.d.). <https://www.upguard.com/blog/top-5-best-and-worst-attributes-of-ansible>
