@@ -63,7 +63,7 @@ Nu we weten wat Ansible is en hoe het werkt, gaan we de voor- en nadelen van dez
 1. **Makkelijk te leren**: Ansible heeft een eenvoudige leercurve, waardoor het toegankelijk is voor zowel beginners als ervaren gebruikers. De duidelijkheid van de syntaxis maakt het eenvoudig om aan de slag te gaan (UpGuard, z.d.).
 2. **YAML-bestanden**: Ansible gebruikt YAML voor zijn configuratiebestanden, wat de leesbaarheid bevordert. Deze eenvoudige opmaak maakt het gemakkelijk om playbooks te begrijpen en aan te passen.
 3. **Schaalbaarheid**: Ansible kan eenvoudig schalen van een paar servers tot duizenden, waardoor het een ideale oplossing is voor zowel kleine als grote infrastructuren.
-4. **Agentless**: Ansible vereist geen agenten op de doelservers, wat de installatie en het beheer vereenvoudigt (Sevak, D., z.d.).
+4. **Agentless**: Ansible vereist geen agenten op de doelservers, wat de installatie en het beheer vereenvoudigt (Sevak, D., 2020).
 
 ### 4.2. Nadelen
 
