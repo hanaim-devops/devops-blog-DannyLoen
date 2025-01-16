@@ -11,7 +11,7 @@ Datum: 25-11-2024
 
 ## 1. Inleiding
 
-Automatisering is een cruciaal onderdeel van DevOps, en het is essentieel om processen makkelijk en snel te beheren. Ansible speelt hierin een belangrijke rol, omdat het een goede en toegankelijke tool is voor het automatiseren van infrastructuur. DevOps-teams zijn voortdurend op zoek naar manieren om handmatige taken te verminderen en consistentie te waarborgen. In deze blogpost ontdek je wat Ansible is, hoe het werkt en waarom het een essentieel hulpmiddel is voor iedereen die zich bezighoudt met DevOps-automatisering (Homepage | Ansible Collaborative, z.d.).
+Automatisering is een cruciaal onderdeel van DevOps, en het is essentieel om processen makkelijk en snel te beheren. Ansible speelt hierin een belangrijke rol, omdat het een goede en toegankelijke tool is voor het automatiseren van infrastructuur. DevOps-teams zijn voortdurend op zoek naar manieren om handmatige taken te verminderen en consistentie te waarborgen. In deze blogpost ontdek je wat Ansible is, hoe het werkt en waarom het een essentieel hulpmiddel is voor iedereen die zich bezighoudt met DevOps-automatisering.
 
 ## 2. Wat is Ansible?
 
@@ -63,7 +63,7 @@ Nu we weten wat Ansible is en hoe het werkt, gaan we de voor- en nadelen van dez
 1. **Makkelijk te leren**: Ansible heeft een eenvoudige leercurve, waardoor het toegankelijk is voor zowel beginners als ervaren gebruikers. De duidelijkheid van de syntaxis maakt het eenvoudig om aan de slag te gaan (UpGuard, z.d.).
 2. **YAML-bestanden**: Ansible gebruikt YAML voor zijn configuratiebestanden, wat de leesbaarheid bevordert. Deze eenvoudige opmaak maakt het gemakkelijk om playbooks te begrijpen en aan te passen.
 3. **Schaalbaarheid**: Ansible kan eenvoudig schalen van een paar servers tot duizenden, waardoor het een ideale oplossing is voor zowel kleine als grote infrastructuren.
-4. **Agentless**: Ansible vereist geen agenten op de doelservers, wat de installatie en het beheer vereenvoudigt (Dhruv, z.d.).
+4. **Agentless**: Ansible vereist geen agenten op de doelservers, wat de installatie en het beheer vereenvoudigt (Sevak, D., z.d.).
 
 ### 4.2. Nadelen
 
@@ -80,12 +80,12 @@ Kortom, Ansible is zeer bruikbaar voor omgevingen die de focus leggen op Linux/U
 
 ## 6. Bronnen
 
-Dhruv. (z.d.). GitHub - dhruv291101/Ansible-Pros-and-Cons. GitHub. <https://github.com/dhruv291101/Ansible-Pros-and-Cons>
+- Sevak, D. (1-10-2020). *Ansible-Pros-and-Cons.* GitHub.com. Geraadpleegd oktober 2024 op <https://github.com/dhruv291101/Ansible-Pros-and-Cons>
 
-Fireship. (2023, 28 maart). Ansible in 100 seconds [Video]. YouTube. <https://www.youtube.com/watch?v=xRMPKQweySE>
+- Fireship. (28-3-2023). *Ansible in 100 seconds* [Video]. YouTube. Geraadpleegd oktober 2024 op <https://www.youtube.com/watch?v=xRMPKQweySE>
 
-Homepage | Ansible Collaborative. (z.d.). <https://www.ansible.com/>
+- Ansible Collaborative. (z.d.). *Homepage.* Geraadpleegd oktober 2024 op <https://www.ansible.com/>
 
-NetworkChuck. (2020, 7 mei). you need to learn Ansible RIGHT NOW!! (Linux Automation) [Video]. YouTube. <https://www.youtube.com/watch?v=5hycyr-8EKs>
+- NetworkChuck. (7-5-2020). *You need to learn Ansible RIGHT NOW!! (Linux Automation)* [Video]. YouTube. Geraadpleegd oktober 2024 op <https://www.youtube.com/watch?v=5hycyr-8EKs>
 
-The Pros and Cons of Ansible | UpGuard. (z.d.). <https://www.upguard.com/blog/top-5-best-and-worst-attributes-of-ansible>
+- UpGuard. (z.d.). *The Pros and Cons of Ansible.* Geraadpleegd oktober 2024 op <https://www.upguard.com/blog/top-5-best-and-worst-attributes-of-ansible>
