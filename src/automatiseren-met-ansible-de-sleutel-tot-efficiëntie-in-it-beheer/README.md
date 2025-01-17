@@ -78,7 +78,7 @@ Echter, als je voornamelijk werkt met Windows-systemen, of als je de voorkeur ge
 
 Kortom, Ansible is zeer bruikbaar voor omgevingen die de focus leggen op Linux/Unix en eenvoud in automatisering, maar minder geschikt voor complexe Windows-omgevingen of gebruikers die een voorkeur hebben voor een tool met een UI.
 
-## 6. Bronnen
+## Bronnen
 
 - Sevak, D. (1-10-2020). *Ansible-Pros-and-Cons.* GitHub.com. Geraadpleegd oktober 2024 op <https://github.com/dhruv291101/Ansible-Pros-and-Cons>
 
